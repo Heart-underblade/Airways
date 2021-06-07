@@ -1,0 +1,23 @@
+﻿  main.cpp
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\flight.h(5,36): warning C4091: 'typedef ': ignored on left of 'Type' when no variable is declared
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(7,35): warning C4091: 'typedef ': ignored on left of 'Status' when no variable is declared
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(8,36): warning C4091: 'typedef ': ignored on left of 'col' when no variable is declared
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(22,17): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(44,17): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(64,17): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(143,21): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(148,23): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(176,28): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(181,22): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(191,18): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(199,22): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(226,22): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\ticket agent.h(247,21): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\customer.h(22,21): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\customer.h(39,17): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\customer.h(85,23): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\customer.h(110,22): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\manager.h(24,20): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\manager.h(40,21): warning C4018: '<': signed/unsigned mismatch
+E:\Study\Y2\Y2S2\CPT106\Assessment4\Airways Management System\main.cpp(86,19): warning C4101: 't': unreferenced local variable
+  Airways Management System.vcxproj -> E:\Study\Y2\Y2S2\CPT106\Assessment4\Debug\Airways Management System.exe

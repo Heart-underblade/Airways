@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Airways Management System", "Airways Management System\Airways Management System.vcxproj", "{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Debug|x64.ActiveCfg = Debug|x64
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Debug|x64.Build.0 = Debug|x64
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Debug|x86.ActiveCfg = Debug|Win32
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Debug|x86.Build.0 = Debug|Win32
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Release|x64.ActiveCfg = Release|x64
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Release|x64.Build.0 = Release|x64
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Release|x86.ActiveCfg = Release|Win32
+		{54A0E05B-79F5-45BD-B6E7-68DD4AF6BB66}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34C0A1B-E246-4FAD-8C55-1AE05D85C90A}
+	EndGlobalSection
+EndGlobal

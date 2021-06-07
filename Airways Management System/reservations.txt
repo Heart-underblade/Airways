@@ -1,0 +1,6 @@
+jack	CH003	2	7C	0	aa	ss	8	20
+mary	CH005	1	2B	1	zz	xx	3	4
+andy	CH002	2	1A	1	hh	gg	5	30
+john	CH004	1	6B	0	tt	yy	12	12
+steven	CH006	1	4A	1	cc	vv	5	30
+tom	CH006	1	2B	0	cc	vv	5	30
